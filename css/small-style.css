@@ -5,12 +5,16 @@
 	padding: 0;
 }
 
+.container .hero {
+	width: 100%;
+}
+
 .hero img {
   width: 100%;
 
 }
 
-section.map {
+.section .map {
  width:100%;
 }
 
@@ -19,3 +23,5 @@ aside.left, aside.right {
 	text-align: center;
 	float: inherit;
 }
+
+
